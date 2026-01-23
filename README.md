@@ -3,6 +3,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nafis-ikbal&label=Profile%20views&color=0e75b6&style=flat" alt="nafis-ikbal" /> </p>
 
+- 🌐 MERN Stack Development Intern at [Bdtask](https://www.bdtask.com/).
+
 - 🎓 Currently studying Computer Science & Technology (CST) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
 
 - 💻 **MERN Stack Developer**  
