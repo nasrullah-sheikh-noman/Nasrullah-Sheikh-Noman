@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nasrullah Sheikh Noman</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0e75b6&style=flat" alt="nasrullah-sheikh-noman" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nafis-ikbal&label=Profile%20views&color=0e75b6&style=flat" alt="nafis-ikbal" /> </p>
+
+- 🎓 Currently studying Computer Science & Technology (CST) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
+
+- 💻 **MERN Stack Developer**  
+
+- 🌟 I love exploring new technologies.
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasrullah-sheikh-noman" alt="nasrullah-sheikh-noman" /></a> </p>
 
