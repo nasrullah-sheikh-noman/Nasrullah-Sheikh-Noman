@@ -30,12 +30,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasrullah-Sheikh-Noman&show_icons=true&theme=dark&border_radius=10" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasrullah-Sheikh-Noman&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrullah-Sheikh-Noman&layout=compact&theme=dark&langs_count=12" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasrullah-Sheikh-Noman&show_icons=true&theme=dark&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasrullah-Sheikh-Noman&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrullah-Sheikh-Noman&layout=compact&theme=dark&langs_count=12" />
 </div>
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasrullah-Sheikh-Noman&show_icons=true&theme=dark" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasrullah-Sheikh-Noman&theme=dark" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrullah-Sheikh-Noman&layout=compact&theme=dark" width="45%" />
+</div>
 
 
 ## 🤝 Connect with me:
