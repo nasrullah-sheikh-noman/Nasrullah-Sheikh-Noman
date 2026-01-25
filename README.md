@@ -24,24 +24,33 @@
 	JavaScript, Node.js, Express.js, MongoDB, Mongoose, React.js, Redux, Tailwind CSS, HTML, CSS, REST API, JWT
 	Vite, Git, GitHub, Postman
 
-
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nasrullah-Sheikh-Noman&show_icons=true&theme=dark&border_radius=10" height='180' />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasrullah-Sheikh-Noman&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height='180' />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrullah-Sheikh-Noman&layout=compact&theme=dark&langs_count=12" width="45% height='180' />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrullah-Sheikh-Noman&layout=compact&theme=dark&langs_count=12" width="45%" height='180' />
 </div>
 
 
-----
+---
+
 
 ## 🤝 Connect with me:
 
 
 <p align="left">
-<a href="mailto: nasrullahsheikhnoman@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="35" /></a><a href="https://fb.com/nasrullah.sheikh.noman#" target="blank"><img align="center" src="https://img.icons8.com/color/48/facebook-new.png" alt="nafis.ikbal00" height="40" width="40" /></a><a href="https://wa.me/8801750466752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="01893-077018" height="30" width="40" /></a>
+  <a href="mailto: nasrullahsheikhnoman@gmail.com" target="blank">
+	  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="35" />
+  </a>
+  <a href="https://fb.com/nasrullah.sheikh.noman#" target="blank">
+	  <img align="center" src="https://img.icons8.com/color/48/facebook-new.png" alt="nafis.ikbal00" height="40" width="40" />
+  </a>
+  <a href="https://wa.me/8801750466752" target="blank">
+	  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="01893-077018" height="30" width="40" />
+  </a>
 </p>
 
-
+---
