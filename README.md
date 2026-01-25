@@ -36,6 +36,8 @@
 </div>
 
 ---
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nasrullah-Sheikh-Noman&show_icons=true&theme=dark" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasrullah-Sheikh-Noman&theme=dark" width="45%" />
