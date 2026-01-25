@@ -38,8 +38,7 @@
 ---
 
 
-
-## 🤝 Connect with me:
+## 🤝 Connect with me
 
 <p align="left">
 	<a href="mailto: nasrullahsheikhnoman@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="35" /></a>
