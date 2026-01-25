@@ -30,7 +30,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nasrullah-Sheikh-Noman&show_icons=true&theme=dark&border_radius=10" height='180' />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrullah-Sheikh-Noman&layout=compact&theme=dark&langs_count=12" width="50%" height='180' />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrullah-Sheikh-Noman&layout=compact&theme=dark&langs_count=12" height='180' />
 </div>
 
 
