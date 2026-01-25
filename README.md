@@ -8,7 +8,7 @@
 
 - 🎓 Currently studying Computer Science & Technology (CST) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
 
-- 💻 **MERN Stack Developer**  
+- 🧑‍💻👨‍💻👩‍💻 **MERN Stack Developer**  
 
 - 🌟 I love exploring new technologies.
 
