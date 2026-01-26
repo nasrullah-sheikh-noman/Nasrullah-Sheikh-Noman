@@ -21,7 +21,8 @@
 
 ---
 
-	JavaScript, Node.js, Express.js, MongoDB, Mongoose, React.js, Redux, Tailwind CSS, HTML, CSS, REST API, JWT
+	JavaScript, Node.js, Express.js, MongoDB, Mongoose, React.js
+	Redux, Tailwind CSS, HTML, CSS, REST API, JWT
 	Vite, Git, GitHub, Postman
 
 ---
