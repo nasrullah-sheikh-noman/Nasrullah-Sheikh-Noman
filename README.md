@@ -15,8 +15,8 @@
 ---
 
 ## 🛠 Skills:
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,react,redux,tailwind,html,css,vite,git,github,postman)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,react,redux,tailwind)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,vite,git,github,postman)](https://skillicons.dev)
 
 
 ---
