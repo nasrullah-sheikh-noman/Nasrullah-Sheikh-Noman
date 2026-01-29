@@ -41,6 +41,15 @@
 
 ---
 
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasrullah-sheikh-noman&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 ## 🤝 Connect with me:
 <p align="left">
 <a href="mailto: nasrullahsheikhnoman@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="35" /></a><a href="https://fb.com/nasrullah.sheikh.noman" target="blank"><img align="center" src="https://img.icons8.com/color/48/facebook-new.png" alt="nafis.ikbal00" height="40" width="40" /></a><a href="https://wa.me/8801750466752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="01893-077018" height="30" width="40" /></a>
