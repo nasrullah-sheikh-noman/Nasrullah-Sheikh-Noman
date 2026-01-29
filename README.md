@@ -27,16 +27,17 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasrullah-Sheikh-Noman&show_icons=true&theme=dark&border_radius=10" height='180' />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrullah-Sheikh-Noman&layout=compact&theme=dark&langs_count=12" height='180' />
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br/>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nasrullah-sheikh-noman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nasrullah-sheikh-noman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
 </div>
 
-
 ---
-
 
 ## 🤝 Connect with me:
 <p align="left">
