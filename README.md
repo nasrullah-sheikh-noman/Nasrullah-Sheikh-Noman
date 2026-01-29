@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, I'm Nasrullah Sheikh Noman</h1>
+<h1 align="center">I'm Nasrullah Sheikh Noman</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 
