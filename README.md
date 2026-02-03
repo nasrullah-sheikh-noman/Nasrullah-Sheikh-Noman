@@ -85,3 +85,6 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 </p>
 
 ---
+
+<h3 align="center">Thank you for visiting my profile! 🚀</h3>
+<h4 align="center">Keep Coding & Stay Curious 💻</h4>
