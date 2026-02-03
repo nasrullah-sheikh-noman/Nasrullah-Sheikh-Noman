@@ -50,9 +50,12 @@
 
 ###
 
-## 🤝 Connect with me:
+---
+
+## 📬 Connect with Me
+
 <p align="left">
-<a href="mailto: nasrullahsheikhnoman@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="35" /></a><a href="https://fb.com/nasrullah.sheikh.noman" target="blank"><img align="center" src="https://img.icons8.com/color/48/facebook-new.png" alt="nafis.ikbal00" height="40" width="40" /></a><a href="https://wa.me/8801750466752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="01893-077018" height="30" width="40" /></a>
+  <a href="nasrullahsheikhnoman@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> <a href=https://www.linkedin.com/in/nasrullah-sheikh-noman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.facebook.com/nasrullah.sheikh.noman#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://wa.me/+8801750466752" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
