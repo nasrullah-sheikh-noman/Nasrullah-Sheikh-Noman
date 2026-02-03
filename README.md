@@ -52,6 +52,7 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
 ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 
 ---
@@ -81,7 +82,7 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="nasrullahsheikhnoman@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> <a href=https://www.linkedin.com/in/nasrullah-sheikh-noman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.facebook.com/nasrullah.sheikh.noman#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://wa.me/+8801750466752" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:nasrullahsheikhnoman@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> <a href="https://www.linkedin.com/in/nasrullah-sheikh-noman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.facebook.com/nasrullah.sheikh.noman#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://wa.me/+8801750466752" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
