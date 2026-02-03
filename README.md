@@ -22,15 +22,45 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,react,redux,tailwind,vscode)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,vite,git,github,postman)](https://skillicons.dev)
 
+---
+
+## 🧠 Tech Stack
+
+Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman 
+
 
 ---
 
-	JavaScript, Node.js, Express.js, MongoDB, Mongoose, React.js
-	Redux, Tailwind CSS, HTML, CSS, REST API, JWT
-	Vite, Git, GitHub, Postman
+### 🦖 Programming Languages
+![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+![JavaSctipt](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
 
 ---
 
+
+### 🌐 Frontend
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+
+---
+
+### ⛏ Backend & Database
+![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)
+
+---
+
+### ⚙️ Tools
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+
+
+---
 
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
