@@ -53,7 +53,7 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
 ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
+![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
 
 ---
 
