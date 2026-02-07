@@ -58,6 +58,14 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ---
 
 
+## 💻 Coding Profiles
+<p>
+  <a href="https://leetcode.com/nasrullah-sheikh-noman/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+  </a>
+</p>
+
+
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 <div align=center>
