@@ -10,7 +10,7 @@
 
 - 🎓 Currently studying Computer Science & Technology (CST) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
   
-- 🕸️ Currently Learning Web Development at [Programming Hero (PH)](https://www.programming-hero.com/).
+- 🕸️ Currently learning Web Development at [Programming Hero (PH)](https://www.programming-hero.com/).
 
 - 🧑‍💻 **MERN Stack Developer**  
 
