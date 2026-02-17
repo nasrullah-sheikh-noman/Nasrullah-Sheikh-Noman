@@ -1,7 +1,6 @@
 <h1 align="center">I'm Nasrullah Sheikh Noman</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0e75b6&style=flat" alt="nasrullah-sheikh-noman" /> </p>
 
 ## 🚀 About Me
@@ -22,7 +21,6 @@
 
 Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman 
 
-
 ---
 
 ### 🦖 Programming Languages
@@ -30,7 +28,6 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ![JavaSctipt](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
 
 ---
-
 
 ### 🌐 Frontend
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
@@ -56,7 +53,6 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
 
 ---
-
 
 ## 💻 Coding Profiles
 <p>
