@@ -56,9 +56,8 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 
 ## 💻 Coding Profiles
 <p>
-  <a href="https://leetcode.com/nasrullah-sheikh-noman/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>  <a href="https://codeforces.com/profile/nasrullah-sheikh-noman" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>  <a href="https://www.codechef.com/users/ns_noman" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+  <a href="https://leetcode.com/nasrullah-sheikh-noman/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>  <a href="https://codeforces.com/profile/nasrullah-sheikh-noman" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>  <a href="https://www.codechef.com/users/ns_noman" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> <a href="https://www.hackerrank.com/profile/nsnoman" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a> 
+ 
  </p>
 
 
