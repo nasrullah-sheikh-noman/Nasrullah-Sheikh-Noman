@@ -2,7 +2,6 @@
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0e75b6&style=flat" alt="nasrullah-sheikh-noman" /> </p>
-
 # 💫 About Me:
 
 - 🌐 MERN Stack Development Intern at [Bdtask](https://www.bdtask.com/).
