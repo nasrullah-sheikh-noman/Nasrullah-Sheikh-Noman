@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=06B6D4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Nasrullah+Sheikh+Noman+!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=06B6D4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Nasrullah+Sheikh+Noman+!;MERN+Stack+Developer+!;+" />
 </h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0e75b6&style=flat" alt="nasrullah-sheikh-noman" /> </p>
