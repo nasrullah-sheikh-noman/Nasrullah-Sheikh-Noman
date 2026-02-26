@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=06B6D4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Nasrullah+Sheikh+Noman+!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=06B6D4&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+Alaikum+;+I'm+Nasrullah+Sheikh+Noman" />
+</h1>
+  
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F59E0B&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Computer+Science+Student+%7c+Problem+Solver;MERN+Stack+Developer+%7c+Frontend+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F59E0B&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Computer+Science+Student+%7c+Problem+Solver;Full+Stack+Developer+%7c+Frontend+Focused" />
 </p> 
 
 # 💫 About Me:
