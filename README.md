@@ -96,7 +96,7 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 
 <!-- Contribution Stack -->
 
-<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Contribution Stack </i> <i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></i></b> </h1>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasrullah-sheikh-noman&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
