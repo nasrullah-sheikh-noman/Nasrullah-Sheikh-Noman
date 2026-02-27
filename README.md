@@ -32,7 +32,6 @@
 ## 🧠 Tech Stack
 
 Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman 
-DSA | Problem Solving | Compititive Programming | System Design | Web Development | Frontend focused
 
 ---
 
