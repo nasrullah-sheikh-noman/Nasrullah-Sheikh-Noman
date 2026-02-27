@@ -28,7 +28,7 @@
   <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40%">
 </p>
 
-
+<!-- ## 💡🛠️ Core Skills & Focus ⚡🎯 -->
 ## 🧠 Tech Stack
 
 Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman 
