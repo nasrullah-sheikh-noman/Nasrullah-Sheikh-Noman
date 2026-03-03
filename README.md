@@ -41,7 +41,6 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 
 ---
 
-
 ### 🌐 Frontend
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
