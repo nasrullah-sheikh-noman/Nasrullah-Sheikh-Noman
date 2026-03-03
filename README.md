@@ -49,6 +49,7 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
 
 ---
+
 <p align="right">
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
 </p>
