@@ -23,8 +23,6 @@
 </h1>
 </div>
 
----
-
 <!-- Banners 4th Phase : SpiderMan -->
 <p align="right">
   <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40%">
