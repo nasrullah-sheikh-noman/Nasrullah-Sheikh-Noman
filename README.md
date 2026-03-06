@@ -23,6 +23,8 @@
 </h1>
 </div>
 
+---
+
 <!-- Banners 4th Phase : SpiderMan -->
 <p align="right">
   <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40%">
@@ -77,6 +79,17 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
   </a>
  </p>
 
+---
+
+ ## 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:nasrullahsheikhnoman@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> <a href="https://www.linkedin.com/in/nasrullah-sheikh-noman/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white"/></a> <a href="https://www.facebook.com/nasrullah.sheikh.noman#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://wa.me/+8801750466752" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  <a href="https://twitter.com/noman100100" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.instagram.com/nasrullah_sheikh_noman" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
 <!-- ⚡ GitHub Stats ⚡ -->
 
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Git Stats </i> <i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></i></b> </h1>
@@ -110,9 +123,7 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-###
+---
 
 <!-- Contribution Stack -->
 
@@ -131,16 +142,6 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasrullah-sheikh-noman&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
----
-
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="mailto:nasrullahsheikhnoman@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> <a href="https://www.linkedin.com/in/nasrullah-sheikh-noman/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white"/></a> <a href="https://www.facebook.com/nasrullah.sheikh.noman#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://wa.me/+8801750466752" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  <a href="https://twitter.com/noman100100" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.instagram.com/nasrullah_sheikh_noman" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
 
 ---
 
