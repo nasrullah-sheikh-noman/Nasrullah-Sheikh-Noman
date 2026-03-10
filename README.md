@@ -67,8 +67,8 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
 ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+![Vercel](https://img.shields.io/badge/Vercel-800000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)
-
 
 
 ---
