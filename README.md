@@ -70,7 +70,6 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ![Vercel](https://img.shields.io/badge/Vercel-800000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)
 
-
 ---
 
 ## 💻 Coding Profiles
