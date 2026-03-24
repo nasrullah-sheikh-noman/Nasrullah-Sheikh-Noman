@@ -10,7 +10,7 @@
 # 💫 About Me:
 
 - 🌐 MERN Stack Development Intern at [Bdtask](https://www.bdtask.com/).
-- ♦️ Currently learning CSE Fundamentals at [Phitron](https://phitron.io/).
+- 🎗️ Currently learning CSE Fundamentals at [Phitron](https://phitron.io/).
 - 🕸️ Currently learning Web Development (MERN) at [Programming Hero (PH)](https://www.programming-hero.com/).
 - 🎓 Currently studying Computer Science & Technology (CST) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
 - 🧑‍💻 **MERN Stack Developer** 
