@@ -36,6 +36,7 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ---
 
 ### 🦖 Programming Languages
+![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
 ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 ![JavaSctipt](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
 
