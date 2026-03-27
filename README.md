@@ -4,7 +4,7 @@
   
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F59E0B&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Computer+Science+Student+%7c+Problem+Solver;Full+Stack+Developer+%7c+Frontend+Focused;Aspiring+Software+Engineer+%7c+Compititive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F59E0B&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Computer+Science+Student+%7c+Problem+Solver;Full+Stack+Developer+%7c+Frontend+Focused;Aspiring+Software+Engineer+%7c+Competitive +Programmer" />
 </p>
 
 # 💫 About Me:
