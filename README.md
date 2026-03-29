@@ -30,11 +30,13 @@
 </p>
 
 <!-- ## 💡🛠️ Core Skills & Focus ⚡🎯 -->
+<!--
 ## 🧠 Tech Stack
 
 Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman 
 
----
+--- 
+--!>
 
 ### 🦖 Programming Languages
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
