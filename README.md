@@ -49,6 +49,8 @@ Node.js | Express.js | JavaScript | React.js | MongoDB | Git & GitHub | Postman
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
 ![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white)
 
