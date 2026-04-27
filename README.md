@@ -18,6 +18,18 @@
 - 🎓 Currently studying Computer Science & Technology (CST) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
 
 
+# 💫 About Me:
+
+- 🎓 Currently studying Computer Science & Technology (CST) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
+- 🕸️ Currently learning MERN Stack Development at [Programming Hero (PH)](https://www.programming-hero.com/).
+- 🌀 Currently learning Competitive Programming at [CPS Academy](https://www.cpsacademy.io/).
+- 🎗️ Currently learning CSE Fundamentals at [Phitron](https://phitron.io/).
+- 🌐 MERN Stack Development Intern at [Bdtask](https://www.bdtask.com/).
+- 🌟 I love exploring new technologies.
+- 🧑‍💻 **MERN Stack Developer**
+
+
+
 
 # <div align="center"> 
 <h1>
