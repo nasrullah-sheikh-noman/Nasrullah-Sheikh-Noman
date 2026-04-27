@@ -48,14 +48,21 @@ MERN Stack Development
 
 ---
 
-### 🌐 Frontend Development & Frameworks
+### 🌐 Frontend Development 
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 ![Next.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
 ![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+
+---
+
+### 🎨 UI Libraries
+
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+![Hero UI](https://img.shields.io/badge/Hero%20UI-90A5E429.svg?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
