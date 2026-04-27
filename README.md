@@ -79,13 +79,14 @@ MERN Stack Development
 ---
 
 ### ⚙️ Tools
-![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
-![Netlify](https://img.shields.io/badge/Netlify-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-800000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
