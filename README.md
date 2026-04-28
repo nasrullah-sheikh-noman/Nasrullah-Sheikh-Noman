@@ -68,8 +68,8 @@ MERN Stack Development
 ### 🎨 UI Libraries
 
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn--ui-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
-![Hero UI](https://img.shields.io/badge/Hero%20UI-0EA5E9.svg?style=for-the-badge&logo=react&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Hero UI](https://img.shields.io/badge/Hero%20UI-0EA5E9.svg?style=for-the-badge&logo=heroui&logoColor=white)
 
 ---
 
