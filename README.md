@@ -9,6 +9,10 @@
 
 # 💫 About Me:
 
+<p align = 'right'>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%">
+</p>
+
 - 🧑‍💻 **MERN Stack Developer** 
 - 🌟 I love exploring new technologies.
 - 🌐 MERN Stack Development Intern at [Bdtask](https://www.bdtask.com/).
