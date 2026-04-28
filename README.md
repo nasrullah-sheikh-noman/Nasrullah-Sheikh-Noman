@@ -32,7 +32,7 @@
 ---
 
 ### 💡 Core Skills & Focus ⚡
-Data Structures & Algorithms | Competitive Programming | Frontend Development
+Data Structures & Algorithms | Competitive Programming | Full Stack Development | Frontend Development
 
 ----
 
