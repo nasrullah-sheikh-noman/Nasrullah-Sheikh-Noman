@@ -40,6 +40,9 @@ Data Structures & Algorithms | Competitive Programming | Frontend Development
 MERN Stack Development
 
 ---
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
 
 ### 🦖 Programming Languages
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
@@ -66,10 +69,6 @@ MERN Stack Development
 
 ---
 
-<p align="right">
-  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
-</p>
-
 <!--  Backend Development & Database Services -->
 ### ⛏ Backend & Database
 ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
@@ -77,6 +76,9 @@ MERN Stack Development
 ![MongoDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)
 
 ---
+<p align="right">
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
+</p>
 
 ### ⚙️ Tools
 
@@ -96,6 +98,7 @@ MERN Stack Development
 </p>
 
 ---
+
 
 ## 💻 Coding Profiles
 <p>
