@@ -97,7 +97,13 @@ MERN Stack Development
 
 ---
 
-## ✍️ Writing & Blogs
+### ✍️ Writing & Blogs
+
+<p align="right">
+  <img align="right" 
+    src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40%">
+</p>
+
 <p>
   <a href="https://www.medium.com/@nasrullahsheikhnoman" target="_blank" rel="noopener noreferrer" title="Add me on Medium"><img src="https://img.shields.io/badge/Medium-34920F?style=for-the-badge&logo=medium&logoColor=white"/></a> <a href="https://dev.to/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on Dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
@@ -105,7 +111,7 @@ MERN Stack Development
 ---
 
 
-## 💻 Coding Profiles
+### 💻 Coding Profiles
 <p>
   <a href="https://leetcode.com/nasrullah-sheikh-noman/" target="_blank" rel="noopener noreferrer" title="Add me on LeetCode"><img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>  <a href="https://codeforces.com/profile/nasrullah-sheikh-noman" target="_blank" rel="noopener noreferrer" title="Add me on Codeforces"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>  <a href="https://www.codechef.com/users/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on CodeChef"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> <a href="https://www.hackerrank.com/profile/nsnoman" target="_blank" rel="noopener noreferrer" title="Add me on HackerRank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>  <a href="https://atcoder.jp/users/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on AtCoder">
     <img src="https://img.shields.io/badge/AtCoder-EA0F0F?style=for-the-badge&logo=atcoder&logoColor=white"/>
@@ -114,7 +120,7 @@ MERN Stack Development
 
 ---
 
- ## 📬 Connect with Me
+ ### 📬 Connect with Me
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nasrullahsheikhnoman@gmail.com" target="_blank" rel="noopener noreferrer" title="Add me on Gmail"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> <a href="https://www.linkedin.com/in/nasrullah-sheikh-noman/" target="_blank" rel="noopener noreferrer" title="Add me on Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white"/></a> <a href="https://discord.com/users/1476075074707525827" target="_blank" rel="noopener noreferrer" title="Add me on Discord"><img src="https://img.shields.io/badge/Discord-2F3136?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://www.facebook.com/nasrullah.sheikh.noman" target="_blank" rel="noopener noreferrer" title="Add me on Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://wa.me/8801750466752" target="_blank" rel="noopener noreferrer" title="Add me on WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> <a href="https://twitter.com/noman100100" target="_blank" rel="noopener noreferrer" title="Add me on Twitter"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/></a>  <a href="https://www.instagram.com/nasrullah_sheikh_noman" target="_blank" rel="noopener noreferrer" title="Add me on Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
