@@ -28,9 +28,11 @@
 </h1>
 </div>
 
-<!-- Banners 4th Phase : SpiderMan -->
-<p align="right">
+<!-- <p align="right">
   <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40%">
+</p> -->
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
 
 ---
@@ -44,9 +46,9 @@ Data Structures & Algorithms | Competitive Programming | Full Stack Development 
 MERN Stack Development
 
 ---
-<p align = 'right'>
+<!-- <p align = 'right'>
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
-</p>
+</p> -->
 
 ### 🦖 Programming Languages
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
@@ -65,6 +67,10 @@ MERN Stack Development
 
 ---
 
+ <p align="right">
+  <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40%">
+</p> 
+
 ### 🎨 UI Libraries
 
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white)
@@ -73,9 +79,9 @@ MERN Stack Development
 
 ---
 
-<p align="right">
+<!-- <p align="right">
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
-</p>
+</p> -->
 
 ### ⛏ Backend & Database
 ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
