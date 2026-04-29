@@ -120,7 +120,6 @@ MERN Stack Development
 
 ---
 
-
 ### 💻 Coding Profiles
 <p>
   <a href="https://leetcode.com/nasrullah-sheikh-noman/" target="_blank" rel="noopener noreferrer" title="Add me on LeetCode"><img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>  <a href="https://codeforces.com/profile/nasrullah-sheikh-noman" target="_blank" rel="noopener noreferrer" title="Add me on Codeforces"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>  <a href="https://www.codechef.com/users/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on CodeChef"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> <a href="https://www.hackerrank.com/profile/nsnoman" target="_blank" rel="noopener noreferrer" title="Add me on HackerRank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>  <a href="https://atcoder.jp/users/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on AtCoder">
