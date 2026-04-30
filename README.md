@@ -16,8 +16,7 @@
 ### Hello, nice to see you here! 👋
 
 I'm Nasrullah Sheikh Noman, a frontend developer 👨🏽‍💻 from Sirajganj, Bangladesh. 
-I build modern, responsive, and user-friendly web applications using Next.js, React.js, JavaScript, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences.  
-Currently improving my problem-solving skills and exploring full-stack development.
+I build modern, responsive, and user-friendly web applications using Next.js, React.js, JavaScript, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences. Currently improving my problem-solving skills, learning Data Structures and Algorithms (DSA), and exploring full-stack development.
 
 # 💫 About Me:
 <p align="center">
