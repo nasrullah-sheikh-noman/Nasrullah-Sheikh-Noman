@@ -214,6 +214,19 @@ MERN Stack Development
 </p>
 
 
+## 💼 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/nasrullah-sheikh-noman/keen-keeper"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=Keen-Keeper&theme=tokyonight&hide_border=true" alt="Keen Keeper"/></a> <a href="https://github.com/nasrullah-sheikh-noman/DigiTools"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=DigiTools&theme=tokyonight&hide_border=true" alt="DigiTools"/></a>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2193b0,100:6dd5ed&height=4&section=header" width="100%"/>
+</p>
+
+
 <h3 align="center">Thank you for visiting my profile! 🚀</h3>
 <h4 align="center">Keep Coding & Stay Curious 💻</h4>
 
