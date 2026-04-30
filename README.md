@@ -12,6 +12,15 @@
 </p>
 
 # 💫 About Me:
+### Hello, nice to see you here! 👋
+
+I'm Nasrullah Sheikh Noman, a frontend developer 👨🏽‍💻 from Sirajganj, Bangladesh. 
+I build modern, responsive, and user-friendly web applications using Next.js, React.js, JavaScript, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences.  
+Currently improving my problem-solving skills and exploring full-stack development.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF6FD8&height=4&section=header" width="100%"/>
+</p>
 
 <p align = 'right'>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%">
