@@ -21,6 +21,9 @@
 - 🕸️ Currently learning MERN Stack Development at [Programming Hero (PH)](https://www.programming-hero.com/).
 - 🎓 Currently studying Computer Science & Technology (CST) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,100:0575E6&height=4&section=header" width="100%"/>
+</p>
 
 # <div align="center"> 
 <h1>
@@ -55,7 +58,9 @@ MERN Stack Development
 ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 ![JavaSctipt](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4DB,100:6A3093&height=4&section=header" width="100%"/>
+</p>
 
 ### 🌐 Frontend Development 
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
@@ -65,7 +70,9 @@ MERN Stack Development
 ![Next.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
 ![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:43E97B,100:1A2980&height=4&section=header" width="100%"/>
+</p>
 
  <p align="right">
   <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40%">
@@ -101,7 +108,9 @@ MERN Stack Development
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:DD2476&height=4&section=header" width="100%"/>
+</p>
 
 <!-- <p align="right">
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
@@ -118,7 +127,9 @@ MERN Stack Development
   <a href="https://www.medium.com/@nasrullahsheikhnoman" target="_blank" rel="noopener noreferrer" title="Add me on Medium"><img src="https://img.shields.io/badge/Medium-34920F?style=for-the-badge&logo=medium&logoColor=white"/></a> <a href="https://dev.to/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on Dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A8FF78,100:78FFD6&height=4&section=header" width="100%"/>
+</p>
 
 ### 💻 Coding Profiles
 <p>
@@ -127,7 +138,9 @@ MERN Stack Development
   </a>
  </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B76E79,100:F7CAC9&height=4&section=header" width="100%"/>
+</p>
 
  ### 📬 Connect with Me
 
@@ -136,7 +149,9 @@ MERN Stack Development
   
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C471ED,100:12C2E9&height=4&section=header" width="100%"/>
+</p>
 
 <!-- ⚡ GitHub Stats ⚡ -->
 
@@ -149,7 +164,9 @@ MERN Stack Development
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=4&section=header" width="100%"/>
+</p>
 
 <!-- snake animation -->
 
@@ -171,7 +188,9 @@ MERN Stack Development
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:83A4D4,100:B6FBFF&height=4&section=header" width="100%"/>
+</p>
 
 <!-- Contribution Stack -->
 
@@ -189,7 +208,19 @@ MERN Stack Development
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasrullah-sheikh-noman&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%"/>
+</p>
+
 
 <h3 align="center">Thank you for visiting my profile! 🚀</h3>
 <h4 align="center">Keep Coding & Stay Curious 💻</h4>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=4&section=header" width="100%"/>
+</p>
