@@ -1,23 +1,25 @@
-<!-- <h1 align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20To%20My%20Profile&fontAlign=50&fontAlignY=35&color=gradient&customColorList=12,20,24" width="100%"/>
+</p>
+
+ <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=06B6D4&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+Alaikum+;+I'm+Nasrullah+Sheikh+Noman" />
 </h1>
   
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F59E0B&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Computer+Science+Student+%7c+Problem+Solver;MERN+Stack+Developer+%7c+Frontend+Focused;Aspiring+Software+Engineer+%7c+Competitive+Programmer" />
-</p> -->
+</p> 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20To%20My%20Profile&fontAlign=50&fontAlignY=35&color=gradient&customColorList=12,20,24" width="100%"/>
-</p>
 
-# 💫 About Me:
+
 ### Hello, nice to see you here! 👋
 
 I'm Nasrullah Sheikh Noman, a frontend developer 👨🏽‍💻 from Sirajganj, Bangladesh. 
 I build modern, responsive, and user-friendly web applications using Next.js, React.js, JavaScript, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences.  
 Currently improving my problem-solving skills and exploring full-stack development.
 
+# 💫 About Me:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF6FD8&height=4&section=header" width="100%"/>
 </p>
