@@ -1,5 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20To%20My%20Profile&fontAlign=50&fontAlignY=35&color=gradient&customColorList=12,20,24" width="100%"/>
+</p> -->
+
+<p align="center">
+  <a href="https://ibb.co.com/PvrY9PTx"><img src="https://i.ibb.co.com/dwfcLVbB/Chat-GPT-Image-May-2-2026-02-31-28-AM.png" alt="Chat-GPT-Image-May-2-2026-02-31-28-AM" border="0" /></a>
 </p>
 
 <!-- <h1 align="center">
