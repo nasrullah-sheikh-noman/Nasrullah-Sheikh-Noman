@@ -3,7 +3,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://ibb.co.com/PvrY9PTx"><img src="https://i.ibb.co.com/dwfcLVbB/Chat-GPT-Image-May-2-2026-02-31-28-AM.png" alt="Chat-GPT-Image-May-2-2026-02-31-28-AM" border="0" /></a>
+  <img src="https://i.ibb.co.com/dwfcLVbB/Chat-GPT-Image-May-2-2026-02-31-28-AM.png" alt="Nasrullah Sheikh NomanBanner" width="100%" />
 </p>
 
 <!-- <h1 align="center">
