@@ -176,12 +176,11 @@ MERN Stack Development
 
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Git Stats </i> <i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></i></b> </h1>
 <div align=center>
+
+ <img width=390 src="https://streak-stats.demolab.com?user=nasrullah-sheikh-noman&theme=react&border_radius=10" alt="Github streak stats" />
   
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nasrullah-sheikh-noman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nasrullah-sheikh-noman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=1800" />
-
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nasrullah-sheikh-noman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=1800" alt="Github readme stats"/>
+ 
  <!-- <img width=390 src="https://streak-stats.demolab.com?user=nasrullah-sheikh-noman&theme=react" /> -->
  <!-- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nasrullah-sheikh-noman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=1800" /> -->
   <!-- <img width="390" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nasrullah-sheikh-noman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/> -->
