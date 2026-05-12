@@ -15,7 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F59E0B&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Computer+Science+Student+%7c+Problem+Solver;MERN+Stack+Developer+%7c+Frontend+Focused;Aspiring+Software+Engineer+%7c+Competitive+Programmer" />
 </p> -->
 
-
 ### Hello, nice to see you here! 👋
 
 I'm Nasrullah Sheikh Noman, a frontend developer from Sirajganj, Bangladesh. 
