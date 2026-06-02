@@ -72,7 +72,7 @@ MERN Stack Development
 ### 🦖 Programming Languages
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
 ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-![JavaSctipt](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4DB,100:6A3093&height=4&section=header" width="100%"/>
