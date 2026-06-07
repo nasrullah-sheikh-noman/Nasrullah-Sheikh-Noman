@@ -86,6 +86,7 @@ MERN Stack Development
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 ![Next.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
 ![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:43E97B,100:1A2980&height=4&section=header" width="100%"/>
