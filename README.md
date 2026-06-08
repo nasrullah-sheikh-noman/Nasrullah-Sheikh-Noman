@@ -35,7 +35,7 @@ I build modern, responsive, and user-friendly web applications using Next.js, Re
 - 🎗️ Currently learning CSE Fundamentals at [Phitron](https://phitron.io/).
 - 🌀 Currently learning Competitive Programming at [CPS Academy](https://www.cpsacademy.io/).
 - 🕸️ Currently learning MERN Stack Development at [Programming Hero (PH)](https://www.programming-hero.com/).
-- 🎓 Studies Diploma (Engg.) in Computer Science & Engineering (CSE) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
+- 🎓 Studies Computer Science & Engineering (CSE) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/), Bangladesh.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,100:0575E6&height=4&section=header" width="100%"/>
