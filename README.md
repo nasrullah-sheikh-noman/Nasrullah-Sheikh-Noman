@@ -188,7 +188,7 @@ MERN Stack Development
  
  <!-- <img width=390 src="https://streak-stats.demolab.com?user=nasrullah-sheikh-noman&theme=react" /> -->
  <!-- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nasrullah-sheikh-noman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=1800" /> -->
-  <!-- <img width="390" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nasrullah-sheikh-noman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/> -->
+   <img width="390" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nasrullah-sheikh-noman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/> 
 
 </div>
 
