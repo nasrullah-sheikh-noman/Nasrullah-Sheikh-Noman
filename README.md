@@ -29,7 +29,7 @@ I build modern, responsive, and user-friendly web applications using Next.js, Re
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%">
 </p>
 
-- 🧑‍💻 **MERN Stack Developer** 
+- 🧑‍💻 **Full Stack Developer** 
 - 🌟 I love exploring new technologies.
 - 🌐 MERN Stack Development Intern at [Bdtask](https://www.bdtask.com/).
 - 🎗️ Currently learning CSE Fundamentals at [Phitron](https://phitron.io/).
