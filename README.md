@@ -31,7 +31,7 @@ I build modern, responsive, and user-friendly web applications using Next.js, Re
 
 - 💻 **Full Stack Developer** 
 - 👨‍💻 **Competitive Programmer**
-- 🌟 I love exploring new technologies.
+- 📚 Always learning and improving skills.
 - 📈 Solving daily competitive programming problems.
 - 🎓 Studies Computer Science (CS) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/).
 
