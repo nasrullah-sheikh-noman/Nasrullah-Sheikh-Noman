@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20To%20My%20Profile&fontAlign=50&fontAlignY=35&color=gradient&customColorList=12,20,24" width="100%"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co.com/dwfcLVbB/Chat-GPT-Image-May-2-2026-02-31-28-AM.png" alt="Nasrullah Sheikh NomanBanner" width="100%" />
-</p>
+</p> -->
 
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=06B6D4&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+Alaikum+;+I'm+Nasrullah+Sheikh+Noman" />
@@ -17,7 +17,7 @@
 
 ### Hello, nice to see you here! 👋
 
-I'm Nasrullah Sheikh Noman, a frontend developer from Sirajganj, Bangladesh. 
+I'm Nasrullah Sheikh Noman, a frontend focused Full Stack developer from Sirajganj, Bangladesh. 
 I build modern, responsive, and user-friendly web applications using Next.js, React.js, JavaScript, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences. Currently improving my problem-solving skills, learning Data Structures and Algorithms (DSA), and exploring full-stack development.
 
 # 💫 About Me:
@@ -29,13 +29,17 @@ I build modern, responsive, and user-friendly web applications using Next.js, Re
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%">
 </p>
 
-- 🧑‍💻 **Full Stack Developer** 
+- 💻 **Full Stack Developer** 
+- 👨‍💻 **Competitive Programmer**
 - 🌟 I love exploring new technologies.
+- 🎓 Studies Computer Science (CS) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/).
+
+<!--
 - 🌐 MERN Stack Development Intern at [Bdtask](https://www.bdtask.com/).
 - 🎗️ Currently learning CSE Fundamentals at [Phitron](https://phitron.io/).
 - 🌀 Currently learning Competitive Programming at [CPS Academy](https://www.cpsacademy.io/).
-- 🕸️ Currently learning MERN Stack Development at [Programming Hero (PH)](https://www.programming-hero.com/).
-- 🎓 Studies Computer Science (CS) at [Sirajganj Polytechnic Institute (SPI), Bangladesh](https://sirajganj.polytech.gov.bd/).
+- 🕸️ Currently learning MERN Stack Development at [Programming Hero (PH)](https://www.programming-hero.com/). -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,100:0575E6&height=4&section=header" width="100%"/>
