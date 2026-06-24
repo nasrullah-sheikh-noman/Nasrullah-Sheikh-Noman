@@ -264,13 +264,18 @@ MERN Stack Development
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=3&section=header" width="100%"/>
 </p>
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
+
+<p align="center">
+  <i>Some of my favorite projects that showcase my skills in full-stack development, problem solving, and modern web technologies.</i>
+</p>
 
 <div align="center">
 
-<a href="https://github.com/nasrullah-sheikh-noman/BooksVibes" title="See My BooksVibes Project" ><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=BooksVibes&theme=tokyonight&hide_border=true" alt="BooksVibes"/></a> <a href="https://github.com/nasrullah-sheikh-noman/keen-keeper" title="See My Keen Keeper Project"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=Keen-Keeper&theme=tokyonight&hide_border=true" alt="Keen Keeper"/></a> 
+<a href="https://github.com/nasrullah-sheikh-noman/BooksVibes"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=BooksVibes&theme=tokyonight&hide_border=true"/></a>  <a href="https://github.com/nasrullah-sheikh-noman/Keen-Keeper"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=Keen-Keeper&theme=tokyonight&hide_border=true"/></a>
 
 </div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2193b0,100:6dd5ed&height=4&section=header" width="100%"/>
