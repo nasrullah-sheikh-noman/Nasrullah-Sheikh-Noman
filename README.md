@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20To%20My%20Profile&fontAlign=50&fontAlignY=35&color=gradient&customColorList=12,20,24" width="100%"/>
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://i.ibb.co.com/dwfcLVbB/Chat-GPT-Image-May-2-2026-02-31-28-AM.png" alt="Nasrullah Sheikh NomanBanner" width="100%" />
-</p> -->
+</p> 
 
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=06B6D4&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+Alaikum+;+I'm+Nasrullah+Sheikh+Noman" />
