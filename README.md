@@ -260,8 +260,9 @@ MERN Stack Development
 > 📖 Read on DEV.to →
 > https://dev.to/ns_noman/mongodb-query-practice-guide-with-real-job-portal-dataset-5e92
 
+<br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4FACFE,100:00F2FE&height=40&section=header" width="100%"/>
 </p>
 
 ## 🚀 Featured Projects
@@ -276,11 +277,9 @@ MERN Stack Development
 
 </div>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2193b0,100:6dd5ed&height=4&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,25:FFFF00,50:00FF00,75:00FFFF,100:0000FF&height=4&section=header" width="100%"/>
 </p>
-
 
 <h3 align="center">Thank you for visiting my profile! 🚀</h3>
 <h4 align="center">Keep Coding & Stay Curious 💻</h4>
