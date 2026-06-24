@@ -248,6 +248,21 @@ MERN Stack Development
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%"/>
 </p>
 
+## 📝 Latest Articles
+
+> 🚀 **Next.js in 2026: Why It Remains the Go-To Framework for Modern Web Applications**
+> 📖 Read on Medium →
+> https://medium.com/@nasrullahsheikhnoman/next-js-in-2026-why-it-remains-the-go-to-framework-for-modern-web-applications-030b1e189c62
+
+<br>
+
+> 🍃 **MongoDB Query Practice Guide with Real Job Portal Dataset**
+> 📖 Read on DEV.to →
+> https://dev.to/ns_noman/mongodb-query-practice-guide-with-real-job-portal-dataset-5e92
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=3&section=header" width="100%"/>
+</p>
 
 ## 💼 Featured Projects
 
