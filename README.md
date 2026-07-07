@@ -68,7 +68,7 @@ Data Structures & Algorithms | Competitive Programming | Full Stack Development 
 ----
 
 ### 🧠 Tech Stack 🚀
-MERN Stack Development
+Full Stack Development
 
 ---
 <!-- <p align = 'right'>
