@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://i.ibb.co.com/dwfcLVbB/Chat-GPT-Image-May-2-2026-02-31-28-AM.png" alt="Nasrullah Sheikh NomanBanner" width="100%" />
-</p> 
+</p>  
 
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=06B6D4&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+Alaikum+;+I'm+Nasrullah+Sheikh+Noman" />
@@ -17,8 +17,8 @@
 
 ### Hello, nice to see you here! 👋
 
-I'm Nasrullah Sheikh Noman, a frontend focused full-stack developer from Sirajganj, Bangladesh. 
-I build modern, responsive, and user-friendly web applications using Next.js, React.js, JavaScript, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences. Currently improving my problem-solving skills, learning Data Structures and Algorithms (DSA), and exploring full-stack development.
+I'm **Nasrullah Sheikh Noman**, a frontend-focused **Full Stack Developer** from Sirajganj, Bangladesh. 
+I build modern, responsive, and user-friendly web applications using Next.js, React.js, JavaScript, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences. Currently improving my problem-solving skills, learning Data Structures and Algorithms (DSA), and deep drive backend-development.
 
 # 💫 About Me:
 <p align="center">
