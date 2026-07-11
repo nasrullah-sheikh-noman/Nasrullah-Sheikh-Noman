@@ -1,21 +1,12 @@
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20To%20My%20Profile&fontAlign=50&fontAlignY=35&color=gradient&customColorList=12,20,24" width="100%"/>
-</p> -->
-
 <p align="center">
   <img src="https://i.ibb.co.com/dwfcLVbB/Chat-GPT-Image-May-2-2026-02-31-28-AM.png" alt="Nasrullah Sheikh NomanBanner" width="100%" />
-</p>  
+</p>
 
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=06B6D4&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+Alaikum+;+I'm+Nasrullah+Sheikh+Noman" />
-</h1>
-  
-</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F59E0B&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Computer+Science+Student+%7c+Problem+Solver;MERN+Stack+Developer+%7c+Frontend+Focused;Aspiring+Software+Engineer+%7c+Competitive+Programmer" />
-</p> -->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=870&lines=I+am+a+Software+Developer+;Love+to+explore+new+technology+and+solving+problems)](https://git.io/typing-svg)
 
-### Hello, nice to see you here! 👋
+ <!-- Typewriting Introduction -->
+
+<h2 align="left">Hello, nice to see you here! <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" ></h2>
 
 I'm **Nasrullah Sheikh Noman**, a frontend-focused **Full Stack Developer** from Sirajganj, Bangladesh. 
 I build modern, responsive, and user-friendly web applications using Next.js, React.js, JavaScript, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences. Currently improving my problem-solving skills, learning Data Structures and Algorithms (DSA), and deep drive backend-development.
