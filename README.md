@@ -138,26 +138,10 @@ Full Stack Development
 <!-- <p align="right">
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
 </p> -->
- <p align="right">
-  <img align="right"
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="40%">
-</p>
 
-### ✍️ Writing & Blogs
-<!-- <p align="right">
-  <img align="right" 
-    src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40%">
-</p> -->
-
-<p>
-  <a href="https://www.medium.com/@nasrullahsheikhnoman" target="_blank" rel="noopener noreferrer" title="Add me on Medium"><img src="https://img.shields.io/badge/Medium-34920F?style=for-the-badge&logo=medium&logoColor=white"/></a> <a href="https://dev.to/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on Dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-</p>
-
----
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A8FF78,100:78FFD6&height=4&section=header" width="100%"/>
-</p> -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔬 Research
 
@@ -165,24 +149,27 @@ Full Stack Development
   <a href="https://scholar.google.com/citations?user=wGXHiF8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a> <a href="https://orcid.org/0009-0000-7740-3930" target="_blank" rel="noopener noreferrer" title="ORCID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 </p>
 
- <!--<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=4&section=header" width="100%"/>
-</p> -->
 ---
+
+### ✍️ Writing & Blogs
+
+<p>
+  <a href="https://www.medium.com/@nasrullahsheikhnoman" target="_blank" rel="noopener noreferrer" title="Add me on Medium"><img src="https://img.shields.io/badge/Medium-34920F?style=for-the-badge&logo=medium&logoColor=white"/></a> <a href="https://dev.to/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on Dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%" align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="85%"/>
+</td>
+
+</tr>
+</table>
+
 
 ### 💻 Coding Profiles
 <p>
   <a href="https://leetcode.com/ns_noman/" target="_blank" rel="noopener noreferrer" title="Add me on LeetCode"><img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>  <a href="https://codeforces.com/profile/nasrullah-sheikh-noman" target="_blank" rel="noopener noreferrer" title="Add me on Codeforces"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>  <a href="https://www.codechef.com/users/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on CodeChef"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> <a href="https://atcoder.jp/users/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on AtCoder"><img src="https://img.shields.io/badge/AtCoder-EA0F0F?style=for-the-badge&logo=atcoder&logoColor=white"/></a>  <a href="https://vjudge.net/user/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on VJudge"> <img src="https://img.shields.io/badge/VJudge-2C3E50?style=for-the-badge&logo=vjudge&logoColor=white"/></a> <a href="https://www.hackerrank.com/profile/nsnoman" target="_blank" rel="noopener noreferrer" title="Add me on HackerRank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>  <a href="https://lightoj.com/user/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on LightOJ"><img src="https://img.shields.io/badge/LightOJ-FF6B00?style=for-the-badge&logo=lightoj&logoColor=white"/></a>  <a href="https://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=ns_noman#1" target="_blank" rel="noopener noreferrer" title="Add me on Aizu Online Judge"><img src="https://img.shields.io/badge/Aizu-004D99?style=for-the-badge&logo=aizu&logoColor=white"/></a>  <a href="https://cses.fi/user/436417" target="_blank" rel="noopener noreferrer" title="Add me on CSES"><img src="https://img.shields.io/badge/CSES-0A7E8C?style=for-the-badge&logo=cses&logoColor=white"/></a>  <a href="https://toph.co/u/NS_Noman" target="_blank" rel="noopener noreferrer" title="Add me on Toph"><img src="https://img.shields.io/badge/Toph-16A085?style=for-the-badge&logoColor=white&labelColor=16A085"/></a>  <a href="https://eolymp.com/en/users/NS_Noman" target="_blank" rel="noopener noreferrer" title="Add me on Eolymp"><img src="https://img.shields.io/badge/Eolymp-7C3AED?style=for-the-badge&labelColor=4C1D95&logoColor=white"/></a>  <a href="https://clist.by/coder/NS_Noman/" target="_blank" rel="noopener noreferrer" title="View my Clist Profile"><img src="https://img.shields.io/badge/🏆_Clist-C026D3?style=for-the-badge&logoColor=white"/></a> <a href="https://profiles.topcoder.com/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on TopCoder"><img src="https://img.shields.io/badge/TopCoder-F7B731?style=for-the-badge&logo=topcoder&logoColor=white"/></a> 
-  
- <!-- <a href="https://atcoder.jp/users/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on AtCoder">
-  <img src="https://img.shields.io/badge/AtCoder-EA0F0F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB5PSIuOWVtIiBmb250LXNpemU9IjkwIiBmaWxsPSJ3aGl0ZSI+8J+lqTwvdGV4dD48L3N2Zz4=&logoColor=white"/>
-</a> -->
-  <!--
- <a href="https://atcoder.jp/users/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on AtCoder">
-    <img src="https://img.shields.io/badge/AtCoder-EA0F0F?style=for-the-badge&logo=atcoder&logoColor=white"/>
-  </a> -->
-  
- </p>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B76E79,100:F7CAC9&height=4&section=header" width="100%"/>
