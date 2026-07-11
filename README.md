@@ -284,7 +284,7 @@ Full Stack Development
 
 <p align="center">
   <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-   <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+   <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="400px" height="500px" >
   <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 
@@ -294,27 +294,7 @@ Full Stack Development
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:7f00ff&height=120&section=footer"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:7f00ff&height=120&section=footer"/>
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:00dbde,100:7f00ff&height=4&section=header" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12c2e9,50:c471ed,100:f64f59&height=4&section=header" width="100%"/> </p>> -->
-
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00dbde,100:7f00ff&height=4&section=header" width="100%"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=4&section=header" width="100%"/>
-</p> -->
