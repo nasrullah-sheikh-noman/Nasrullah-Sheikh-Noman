@@ -53,9 +53,7 @@ I build modern, responsive, and user-friendly web applications using Next.js, Re
 </h1>
 </div>
 
-<!-- <p align="right">
-  <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40%">
-</p> -->
+
 <p align = 'right'>
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
@@ -140,9 +138,13 @@ Full Stack Development
 <!-- <p align="right">
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
 </p> -->
+ <p align="right">
+  <img align="right"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="40%">
+</p>
 
 ### ✍️ Writing & Blogs
-
 <!-- <p align="right">
   <img align="right" 
     src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40%">
@@ -152,9 +154,10 @@ Full Stack Development
   <a href="https://www.medium.com/@nasrullahsheikhnoman" target="_blank" rel="noopener noreferrer" title="Add me on Medium"><img src="https://img.shields.io/badge/Medium-34920F?style=for-the-badge&logo=medium&logoColor=white"/></a> <a href="https://dev.to/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on Dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
 
-<p align="center">
+---
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A8FF78,100:78FFD6&height=4&section=header" width="100%"/>
-</p>
+</p> -->
 
 ### 🔬 Research
 
@@ -162,9 +165,10 @@ Full Stack Development
   <a href="https://scholar.google.com/citations?user=wGXHiF8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a> <a href="https://orcid.org/0009-0000-7740-3930" target="_blank" rel="noopener noreferrer" title="ORCID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 </p>
 
- <p align="center">
+ <!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=4&section=header" width="100%"/>
-</p> 
+</p> -->
+---
 
 ### 💻 Coding Profiles
 <p>
