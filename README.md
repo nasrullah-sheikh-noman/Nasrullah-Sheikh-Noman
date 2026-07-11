@@ -288,8 +288,14 @@ Full Stack Development
   <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 
-<h3 align="center">Thank you for visiting my profile! 🚀</h3>
-<h4 align="center">Keep Coding & Stay Curious 💻</h4>
+<h2 align="center">✨ Thanks for Visiting My Profile ✨</h2>
+
+<p align="center">
+  <b>🚀 Learn • Code • Solve • Build • Repeat</b>
+  <br><br>
+  <i>"Great software is built one commit at a time."</i> 💙
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:7f00ff&height=120&section=footer"/>
