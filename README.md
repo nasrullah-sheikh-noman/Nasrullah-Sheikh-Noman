@@ -291,6 +291,10 @@ Full Stack Development
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,25:FFFF00,50:00FF00,75:00FFFF,100:0000FF&height=4&section=header" width="100%"/>
 </p>
 
+  <p align='center'>
+  <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+  </p>
+
 <h3 align="center">Thank you for visiting my profile! 🚀</h3>
 <h4 align="center">Keep Coding & Stay Curious 💻</h4>
 
