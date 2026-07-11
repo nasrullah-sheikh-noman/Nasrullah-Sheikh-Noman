@@ -282,27 +282,14 @@ Full Stack Development
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,25:FFFF00,50:00FF00,75:00FFFF,100:0000FF&height=4&section=header" width="100%"/>
 </p>
 
-  <p align='center'>
-  <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
-  </p>
+<p align="center">
+  <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+   <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+  <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
+</p>
 
 <h3 align="center">Thank you for visiting my profile! 🚀</h3>
 <h4 align="center">Keep Coding & Stay Curious 💻</h4>
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p> -->
-
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer"/>
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
-</p> -->
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:7f00ff&height=120&section=footer"/>
