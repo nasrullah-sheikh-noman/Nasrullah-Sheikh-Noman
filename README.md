@@ -25,7 +25,7 @@ I build modern, responsive, and user-friendly web applications using Next.js, Re
 - 📚 Always learning and improving skills.
 - 📈 Solving daily competitive programming problems.
 - 🚀 Passionate about building real-world web applications.
-- 🎓 Studies Computer Science (CS) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/).
+- 🎓 Studies  Computer Science & Engineering (CSE) at [Sirajganj Polytechnic Institute (SPI)](https://sirajganj.polytech.gov.bd/).
 
 <!--
 - 🌐 MERN Stack Development Intern at [Bdtask](https://www.bdtask.com/).
