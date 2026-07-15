@@ -52,7 +52,7 @@ I build modern, responsive, and user-friendly web applications using Next.js, Re
 ---
 
 ### 💡 Core Skills & Focus ⚡
-Data Structures & Algorithms | Competitive Programming | Full Stack Development | Frontend Development | OOP 
+Data Structures & Algorithms | Competitive Programming | Full Stack Development | Frontend Development | OOP | DP
 
 ----
 
