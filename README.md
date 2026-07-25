@@ -144,7 +144,7 @@ Full Stack Development
 ### ✍️ Writing & Blogs
 
 <p>
-  <a href="https://www.medium.com/@nasrullahsheikhnoman" target="_blank" rel="noopener noreferrer" title="Add me on Medium"><img src="https://img.shields.io/badge/Medium-34920F?style=for-the-badge&logo=medium&logoColor=white"/></a> <a href="https://dev.to/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on Dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://www.medium.com/@nasrullahsheikhnoman" target="_blank" rel="noopener noreferrer" title="Add me on Medium"><img src="https://img.shields.io/badge/Medium-34920F?style=for-the-badge&logo=medium&logoColor=white"/></a> <a href="https://dev.to/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on Dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>  <a href="https://stackoverflow.com/users/32970729/nasrullah-sheikh-noman?tab=profile" target="_blank" rel="noopener noreferrer" title="Add me on Stack Overflow"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
 
 </td>
