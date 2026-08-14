@@ -289,6 +289,7 @@ Full Stack Development
 
 </div>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,25:FFFF00,50:00FF00,75:00FFFF,100:0000FF&height=4&section=header" width="100%"/>
 </p>
