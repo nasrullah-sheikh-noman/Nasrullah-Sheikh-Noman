@@ -257,7 +257,7 @@ Full Stack Development
 </div> -->
 
 <p align = 'right'>
-  <img align='right'  src="readme.gif" width="40%">
+  <img align='right' src="readme.gif" width="36%" height="320">
 </p>
 
 ## 📝 Latest Articles
