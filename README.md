@@ -129,9 +129,13 @@ Full Stack Development
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
 </p> -->
 
-<table>
+<!-- <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top"> -->
+
+<div>
+  <img align="right" height="250" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="gif" />
+</div>
 
 ### 🔬 Research
 
@@ -147,13 +151,19 @@ Full Stack Development
   <a href="https://www.medium.com/@nasrullahsheikhnoman" target="_blank" rel="noopener noreferrer" title="Add me on Medium"><img src="https://img.shields.io/badge/Medium-34920F?style=for-the-badge&logo=medium&logoColor=white"/></a> <a href="https://dev.to/ns_noman" target="_blank" rel="noopener noreferrer" title="Add me on Dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>  <a href="https://stackoverflow.com/users/32970729/nasrullah-sheikh-noman?tab=profile" target="_blank" rel="noopener noreferrer" title="Add me on Stack Overflow"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
 
-</td>
+---
+<!-- </td>
 <td width="50%" align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="85%"/>
-</td>
+</td> -->
 
-</tr>
-</table>
+<!-- </tr>
+</table> -->
+
+<!-- binary gif -->
+<!-- <div>
+  <img align="right" height="250" width="250"src="readme.gif" alt="Banner" />
+</div> -->
 
 ### 💻 Coding Profiles
 <p>
@@ -238,6 +248,10 @@ Full Stack Development
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%"/>
 </p>
 
+<div>
+  <img align="right" height="350" width="350"src="readme.gif" alt="Banner" />
+</div>
+
 ## 📝 Latest Articles
 
 > 🚀 **Next.js in 2026: Why It Remains the Go-To Framework for Modern Web Applications**
@@ -272,9 +286,9 @@ Full Stack Development
 </p>
 
 <p align="center">
-  <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+  <!-- <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px"> -->
    <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="400px" height="500px" >
-  <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
+  <!-- <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px"> -->
 </p>
 
 <h2 align="center">✨ Thanks for Visiting My Profile ✨</h2>
