@@ -133,9 +133,13 @@ Full Stack Development
 <tr>
 <td width="50%" valign="top"> -->
 
-<div>
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="40%">
+</p>
+
+<!-- <div>
   <img align="right" height="250" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="gif" />
-</div>
+</div> -->
 
 ### 🔬 Research
 
@@ -248,9 +252,13 @@ Full Stack Development
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%"/>
 </p>
 
-<div>
-  <img align="right" height="350" width="350"src="readme.gif" alt="Banner" />
-</div>
+<!-- <div>
+  <img align="right" height="350" width="350" src="readme.gif" alt="Banner" />
+</div> -->
+
+<p align = 'right'>
+  <img align='right'  src="readme.gif" width="40%">
+</p>
 
 ## 📝 Latest Articles
 
