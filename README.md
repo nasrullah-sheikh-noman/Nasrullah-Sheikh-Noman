@@ -245,9 +245,12 @@ Full Stack Development
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasrullah-sheikh-noman&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasrullah-Sheikh-Noman&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
+
+
+<!-- border line-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%"/>
 </p>
@@ -256,6 +259,7 @@ Full Stack Development
   <img align="right" height="350" width="350" src="readme.gif" alt="Banner" />
 </div> -->
 
+<!-- binary animation -->
 <p align = 'right'>
   <img align='right' src="readme.gif" width="36%" height="320">
 </p>
