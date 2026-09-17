@@ -13,7 +13,14 @@
   <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0969da&style=flat-square" alt="Profile Views" />
 </p>
 
----
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:C471ED,100:F64F59&height=6&section=header" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4158D0,50:C850C0,100:FFCC70&height=5&section=header" width="100%"/>
+</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DBDE,50:FC00FF,100:00DBDE&height=3&section=header" width="100%"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FC00FF,50:00DBDE,100:FC00FF&height=2&section=header" width="85%"/> </p> -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,50:0575E6,100:00F260&height=5&section=header" width="100%"/> </p>
 
 <h2 align="left">Hello, nice to see you here! <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" ></h2>
 
