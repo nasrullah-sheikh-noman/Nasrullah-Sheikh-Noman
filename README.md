@@ -7,7 +7,7 @@
  <!-- Typewriting Introduction -->
 
 <h1 align="center">Nasrullah Sheikh Noman</h1>
-<h3 align="center">Full Stack Developer | Frontend Engineer | Software Developer</h3>
+<h3 align="center">Full Stack Developer | Frontend Engineer | Software Developer | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0969da&style=flat-square" alt="Profile Views" />
