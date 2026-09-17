@@ -1,10 +1,19 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co.com/dwfcLVbB/Chat-GPT-Image-May-2-2026-02-31-28-AM.png" alt="Nasrullah Sheikh NomanBanner" width="100%" />
-</p>
+</p> -->
 
 <!-- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=400&color=51C1F7&width=400&lines=I+am+a+Software+Developer+;Love+to+explore+new+technology)](https://git.io/typing-svg) -->
 
  <!-- Typewriting Introduction -->
+
+<h1 align="center">Nasrullah Sheikh Noman</h1>
+<h3 align="center">Full Stack Developer | Frontend Engineer | Software Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0969da&style=flat-square" alt="Profile Views" />
+</p>
+
+---
 
 <h2 align="left">Hello, nice to see you here! <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" ></h2>
 
