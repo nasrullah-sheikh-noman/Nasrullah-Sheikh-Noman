@@ -298,7 +298,10 @@ Full Stack Development
 
 <div align="center">
 
-<a href="https://github.com/nasrullah-sheikh-noman/BooksVibes"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=BooksVibes&theme=tokyonight&hide_border=true"/></a>  <a href="https://github.com/nasrullah-sheikh-noman/Keen-Keeper"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=Keen-Keeper&theme=tokyonight&hide_border=true"/></a>
+<!-- <a href="https://github.com/nasrullah-sheikh-noman/BooksVibes"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=BooksVibes&theme=tokyonight&hide_border=true"/></a>  <a href="https://github.com/nasrullah-sheikh-noman/Keen-Keeper"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=Keen-Keeper&theme=tokyonight&hide_border=true"/></a> -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=BooksVibes&theme=great-gatsby)](https://github.com/nasrullah-sheikh-noman/BooksVibes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nasrullah-sheikh-noman&repo=Keen-Keeper&theme=great-gatsby)](https://github.com/nasrullah-sheikh-noman/Keen-Keeper)
 
 </div>
 
