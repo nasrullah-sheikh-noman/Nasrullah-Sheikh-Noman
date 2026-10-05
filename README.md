@@ -115,6 +115,14 @@ Full Stack Development
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF2E63&height=4&section=header" width="100%"/>
+</p>
+
+<!-- binary animation -->
+<p align = 'right'>
+  <img align='right' src="readme.gif" width="36%" height="320">
+</p>
 
 ### 🗄️ Database & Query Language
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
