@@ -51,7 +51,6 @@ I build modern, responsive, and user-friendly web applications using Next.js, Re
 </h1>
 </div>
 
-
 <p align = 'right'>
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
