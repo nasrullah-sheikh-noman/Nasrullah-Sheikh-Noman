@@ -124,7 +124,7 @@ Full Stack Development
 
 <!-- binary animation -->
 <p align = 'right'>
-  <img align='right' src="readme.gif" width="36%" height="320">
+  <img align='right' src="readme.gif" width="34%" height="270">
 </p>
 
 ### 🗄️ Database & Query Language
