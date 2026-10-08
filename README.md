@@ -167,7 +167,7 @@ Full Stack Development
   <img align="right" height="250" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="gif" />
 </div> -->
 
-### 🔬 Research
+### 🔬 Research & Academic Profiles
 
 <p>
   <a href="https://scholar.google.com/citations?user=wGXHiF8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a> <a href="https://orcid.org/0009-0000-7740-3930" target="_blank" rel="noopener noreferrer" title="ORCID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
