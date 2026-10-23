@@ -19,7 +19,7 @@
 <h2 align="left">Hello, nice to see you here! <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" ></h2>
 
 I'm **Nasrullah Sheikh Noman**, a frontend-focused **Full Stack Developer** from Sirajganj, Bangladesh. 
-I build modern, responsive, and user-friendly web applications using Next.js, React.js, JavaScript, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences. Currently improving my problem-solving skills, learning Data Structures and Algorithms (DSA), and deep drive backend-development.
+I build modern, responsive, and user-friendly web applications using Next.js, TypeScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and Hero UI, with a strong focus on clean code, performance optimization, and seamless user experiences. Currently improving my problem-solving skills, learning Data Structures and Algorithms (DSA), and deep drive backend-development.
 
 # 💫 About Me:
 <p align="center">
