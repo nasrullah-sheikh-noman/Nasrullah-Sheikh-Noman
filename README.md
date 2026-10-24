@@ -13,7 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0969da&style=flat-square" alt="Profile Views" />
 </p>
 
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,50:0575E6,100:00F260&height=5&section=header" width="100%"/> </p>
 
 <h2 align="left">Hello, nice to see you here! <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" ></h2>
