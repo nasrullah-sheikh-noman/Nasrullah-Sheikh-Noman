@@ -44,7 +44,6 @@ I build modern, responsive, and user-friendly web applications using Next.js, Ty
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9966,50:FF5E62,100:8E2DE2&height=5&section=header" width="100%"/> </p>
 
-
 # <div align="center"> 
 <h1>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><i> Skills: </i>
