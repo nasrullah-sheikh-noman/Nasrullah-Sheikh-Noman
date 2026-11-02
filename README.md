@@ -343,7 +343,6 @@ Full Stack Development
   <i>"Great software is built one commit at a time."</i> 💙
 </p>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:7f00ff&height=120&section=footer"/>
 </p>
