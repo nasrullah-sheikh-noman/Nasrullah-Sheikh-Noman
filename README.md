@@ -70,10 +70,10 @@ I build modern, responsive, and user-friendly web applications using Next.js, Ty
 
 Data Structures & Algorithms (DSA) | Competitive Programming (CP) | Structured Programming (SPL) | Object-Oriented Programming (OOP) | Dynamic Programming (DP) | Discrete Mathematics | Database Management Systems (DBMS) | Operating Systems (OS) | Computer Networks (CN) | Full Stack Development | Frontend Engineering -->
 
-----
+<!-- ----
 
 ### 🧠 Tech Stack 🚀
-Full Stack Development
+Full Stack Development -->
 
 ---
 <!-- <p align = 'right'>
