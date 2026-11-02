@@ -65,7 +65,7 @@ Structured Programming (SPL) | Object-Oriented Programming (OOP)
 Data Structures & Algorithms (DSA) | Discrete Mathematics | Database Management Systems (DBMS) | Operating Systems (OS) | Computer Networks (CN)
 
 ### Problem Solving:
-Competitive Programming (CP) | Algorithm Analysis | Dynamic Programming (DP)
+Competitive Programming (CP) | Algorithm Design & Analysis | Dynamic Programming (DP)
 
 ### Development: 
 Full Stack Development | Frontend Engineering | API Development
