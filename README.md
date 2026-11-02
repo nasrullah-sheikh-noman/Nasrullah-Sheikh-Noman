@@ -54,17 +54,21 @@ I build modern, responsive, and user-friendly web applications using Next.js, Ty
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
 
----
+<!--  ---
 
-### 💡 Core Skills & Focus ⚡
+### 💡 Core Skills & Focus ⚡-->
 
-**Programming:** Structured Programming (SPL) | Object-Oriented Programming (OOP)
+### Programming: 
+Structured Programming (SPL) | Object-Oriented Programming (OOP)
 
-**Computer Science:** Data Structures & Algorithms | Discrete Mathematics | Database Management Systems (DBMS)
+### Computer Science:
+Data Structures & Algorithms | Discrete Mathematics | Database Management Systems (DBMS)
 
-**Problem Solving:** Competitive Programming (CP) | Dynamic Programming (DP)
+### Problem Solving:
+Competitive Programming (CP) | Dynamic Programming (DP)
 
-**Development:** Full Stack Development | Frontend Engineering
+### Development: 
+Full Stack Development | Frontend Engineering
 
 <!-- ### 💡 Core Skills & Focus ⚡
 
