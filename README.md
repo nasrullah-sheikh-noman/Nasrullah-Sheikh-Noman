@@ -63,7 +63,7 @@ Data Structures & Algorithms (DSA) | Discrete Mathematics | Database Management 
 ### 🧩 Problem Solving:
 Competitive Programming (CP) | Algorithm Design & Analysis | Dynamic Programming (DP)
 
-### 🚀 Development:
+### 🏗️ Development:
 Full Stack Development | Frontend Engineering | API Development
 
 <!-- ### 💡 Core Skills & Focus ⚡
