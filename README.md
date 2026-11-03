@@ -54,7 +54,7 @@ I build modern, responsive, and user-friendly web applications using Next.js, Ty
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
 
-### 💻 Programming:
+### 🖥️ Programming:
 Structured Programming (SPL) | Object-Oriented Programming (OOP)
 
 ### 📚 Computer Science:
