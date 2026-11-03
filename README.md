@@ -57,7 +57,7 @@ I build modern, responsive, and user-friendly web applications using Next.js, Ty
 ### 🖥️ Programming:
 Structured Programming (SPL) | Object-Oriented Programming (OOP)
 
-### 📚 Computer Science:
+### 🧠 Computer Science:
 Data Structures & Algorithms (DSA) | Discrete Mathematics | Database Management Systems (DBMS) | Operating Systems (OS) | Computer Networks (CN)
 
 ### 🧩 Problem Solving:
