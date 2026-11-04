@@ -20,7 +20,7 @@
 <h3 align="center">Full Stack Developer | Frontend Engineer | Software Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/nasrullah-sheikh-noman"> <img src="https://img.shields.io/badge/Codeforces-1254-blue?logo=codeforces&logoColor=white" /></a> <a href="https://www.codechef.com/users/ns_noman"><img src="https://img.shields.io/badge/CodeChef-1511-brown?logo=codechef&logoColor=white" /></a> <a href="https://leetcode.com/u/ns_noman/"><img src="https://img.shields.io/badge/LeetCode-1574-orange?logo=leetcode&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0969da&style=flat-square" alt="Profile Views" />
+  <a href="https://codeforces.com/profile/nasrullah-sheikh-noman"> <img src="https://img.shields.io/badge/Codeforces-1254-blue?logo=codeforces&logoColor=white" /></a> <a href="https://leetcode.com/u/ns_noman/"><img src="https://img.shields.io/badge/LeetCode-1574-orange?logo=leetcode&logoColor=white" /></a> <a href="https://www.codechef.com/users/ns_noman"><img src="https://img.shields.io/badge/CodeChef-1511-brown?logo=codechef&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0969da&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,50:0575E6,100:00F260&height=5&section=header" width="100%"/> </p>
