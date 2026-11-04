@@ -20,7 +20,7 @@
 <h3 align="center">Full Stack Developer | Frontend Engineer | Software Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0969da&style=flat-square" alt="Profile Views" /> <a href="https://codeforces.com/profile/nasrullah-sheikh-noman"> <img src="https://img.shields.io/badge/Codeforces-1254-blue?logo=codeforces&logoColor=white" alt="Codeforces Profile"/></a> <a href="https://leetcode.com/u/ns_noman/"><img src="https://img.shields.io/badge/LeetCode-1574-orange?logo=leetcode&logoColor=white" alt="LeetCode Profile"/></a> <a href="https://www.codechef.com/users/ns_noman"><img src="https://img.shields.io/badge/CodeChef-1511-brown?logo=codechef&logoColor=white" alt="CodeChef Profile"/></a> 
+  <a href="https://codeforces.com/profile/nasrullah-sheikh-noman" title="Pupil on Codeforces"> <img src="https://img.shields.io/badge/Codeforces-1254-blue?logo=codeforces&logoColor=white" alt="Codeforces Profile"/></a> <a href="https://leetcode.com/u/ns_noman/" title="1574 on LeetCode"><img src="https://img.shields.io/badge/LeetCode-1574-orange?logo=leetcode&logoColor=white" alt="LeetCode Profile"/></a> <a href="https://www.codechef.com/users/ns_noman" title="2 Star on CodeChef"><img src="https://img.shields.io/badge/CodeChef-1511-brown?logo=codechef&logoColor=white" alt="CodeChef Profile"/></a> 
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,50:0575E6,100:00F260&height=5&section=header" width="100%"/> </p>
@@ -54,11 +54,12 @@ I build modern, responsive, and user-friendly web applications using Next.js, Ty
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9966,50:FF5E62,100:8E2DE2&height=5&section=header" width="100%"/> </p>
 
-# <div align="center"> 
+<!-- ### Skills -->
 <h1>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><i> Skills: </i>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+    <i> Skills: </i>
+    <img align="right" src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0969da&style=flat-square" alt="Profile Views"/>
 </h1>
-</div>
 
 <p align = 'right'>
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
