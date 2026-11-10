@@ -136,6 +136,9 @@ Full Stack Development -->
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF2E63&height=4&section=header" width="100%"/>
+</p>
 
 <!-- binary animation -->
 <p align = 'right'>
@@ -152,9 +155,6 @@ Full Stack Development -->
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF2E63&height=4&section=header" width="100%"/>
-</p>
 
 <!-- ### 🗄️ Database & Query Language 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) -->
