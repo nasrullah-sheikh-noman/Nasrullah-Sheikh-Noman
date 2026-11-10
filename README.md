@@ -130,6 +130,14 @@ Full Stack Development -->
 
 ---
 
+### 🔐 Authentication & Authorization
+
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+
 <!-- <p align="right">
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
 </p> -->
@@ -169,7 +177,7 @@ Full Stack Development -->
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-5246E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better%20Auth-4F46E5?style=for-the-badge&logo=auth0&logoColor=white)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:DD2476&height=4&section=header" width="100%"/>
