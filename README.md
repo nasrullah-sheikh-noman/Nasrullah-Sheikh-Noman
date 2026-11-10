@@ -137,6 +137,10 @@ Full Stack Development -->
 
 ---
 
+<!-- binary animation -->
+<p align = 'right'>
+  <img align='right' src="readme.gif" width="34%" height="270">
+</p>
 
 <!-- <p align="right">
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwM21wOG41aXdsZzY5bWN0MjNxZHFpaXh6eDRreDkxb3FuNTB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="40%">
@@ -150,11 +154,6 @@ Full Stack Development -->
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF2E63&height=4&section=header" width="100%"/>
-</p>
-
-<!-- binary animation -->
-<p align = 'right'>
-  <img align='right' src="readme.gif" width="34%" height="270">
 </p>
 
 <!-- ### 🗄️ Database & Query Language 
