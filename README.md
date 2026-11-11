@@ -13,7 +13,8 @@
 
 <!-- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=400&color=51C1F7&width=400&lines=I+am+a+Software+Developer+;Love+to+explore+new+technology)](https://git.io/typing-svg) -->
 
-<p align="center"><img src="https://media0.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif?cid=790b7611e22f6254c02681c2979b70854fd28dacb176001c&rid=giphy.gif&ct=g" height="200" width="200"/></p>
+<!-- Animation -->
+<!-- <p align="center"><img src="https://media0.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif?cid=790b7611e22f6254c02681c2979b70854fd28dacb176001c&rid=giphy.gif&ct=g" height="200" width="200"/></p> -->
 
 
  <!-- Typewriting Introduction -->
