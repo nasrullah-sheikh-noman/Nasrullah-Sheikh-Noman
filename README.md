@@ -15,11 +15,6 @@
 
 <!-- Animation -->
 <!-- <p align="center"><img src="https://media0.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif?cid=790b7611e22f6254c02681c2979b70854fd28dacb176001c&rid=giphy.gif&ct=g" height="200" width="200"/></p> -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasrullah-sheikh-noman/Nasrullah-Sheikh-Noman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasrullah-sheikh-noman/Nasrullah-Sheikh-Noman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nasrullah-sheikh-noman/Nasrullah-Sheikh-Noman/output/pacman-contribution-graph.svg">
-</picture> -->
 
  <!-- Typewriting Introduction -->
 
@@ -273,9 +268,9 @@ Full Stack Development -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=4&section=header" width="100%"/>
 </p>
 
-<!-- snake animation -->
+<!-- snake animation static contribution -->
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -289,7 +284,14 @@ Full Stack Development -->
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
+
+  <!-- github Snake Animation with yml file  and real contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasrullah-sheikh-noman/Nasrullah-Sheikh-Noman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasrullah-sheikh-noman/Nasrullah-Sheikh-Noman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nasrullah-sheikh-noman/Nasrullah-Sheikh-Noman/output/pacman-contribution-graph.svg">
+</picture> 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
