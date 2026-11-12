@@ -15,7 +15,11 @@
 
 <!-- Animation -->
 <!-- <p align="center"><img src="https://media0.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif?cid=790b7611e22f6254c02681c2979b70854fd28dacb176001c&rid=giphy.gif&ct=g" height="200" width="200"/></p> -->
-
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasrullah-sheikh-noman/Nasrullah-Sheikh-Noman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasrullah-sheikh-noman/Nasrullah-Sheikh-Noman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nasrullah-sheikh-noman/Nasrullah-Sheikh-Noman/output/pacman-contribution-graph.svg">
+</picture> -->
 
  <!-- Typewriting Introduction -->
 
