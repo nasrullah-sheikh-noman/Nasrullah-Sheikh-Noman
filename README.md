@@ -1,7 +1,7 @@
 <!-- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=400&color=51C1F7&width=400&lines=I+am+a+Software+Developer+;Love+to+explore+new+technology)](https://git.io/typing-svg) -->
 
 <!-- Animation -->
-<p align="center"><img src="https://media0.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif?cid=790b7611e22f6254c02681c2979b70854fd28dacb176001c&rid=giphy.gif&ct=g" height="200" width="200"/></p>
+<!-- <p align="center"><img src="https://media0.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif?cid=790b7611e22f6254c02681c2979b70854fd28dacb176001c&rid=giphy.gif&ct=g" height="200" width="200"/></p> -->
 
  <!-- Typewriting Introduction -->
 
@@ -80,16 +80,17 @@ Full Stack Development -->
 </p> -->
 
 ---
+
 ### 🦖 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4DB,100:6A3093&height=4&section=header" width="100%"/>
 </p>
