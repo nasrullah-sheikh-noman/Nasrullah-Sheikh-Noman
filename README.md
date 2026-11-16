@@ -1,3 +1,15 @@
+<!-- Target Knowledge Domain Structure
+1: 🖥️ Programming: SPL, FP, OOP, Database Programming
+2: 🧠 Computer Science: DSA, Discrete Mathematics, DBMS, OS, CN
+3: 🧩 Problem Solving: CP, Algorithm Design & Analysis, DP
+4: 🛠️ Software Development: Full Stack, Frontend Engineering, Backend Engineering, API Development
+5: 🏗️ Software Engineering: SDLC, Agile, Scrum, SRS, System Design, HLD, LLD, Design Patterns, SOLID, Clean Code, UML, Refactoring
+6: 🧪 Software Testing: Unit Testing, Integration Testing, E2E Testing, TDD, BDD, QA
+7: 🗄️ Database Engineering: Database Design, SQL, NoSQL, Indexing, Optimization, Transactions, Replication, Sharding
+8: 🌐 Distributed Systems: Microservices, Event-Driven Architecture, Message Queues, Caching, Scalability, Fault Tolerance
+9: 🔐 Software Security: OWASP, Secure Coding, Cryptography, Application Security
+10: ☁️ DevOps & Cloud: Linux, Git, CI/CD, Docker, Kubernetes, AWS, Monitoring, Logging -->
+
 <!-- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=400&color=51C1F7&width=400&lines=I+am+a+Software+Developer+;Love+to+explore+new+technology)](https://git.io/typing-svg) -->
 
 <!-- Animation -->
