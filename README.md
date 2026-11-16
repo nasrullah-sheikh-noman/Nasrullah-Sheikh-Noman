@@ -68,7 +68,7 @@ Competitive Programming (CP) | Algorithm Design & Analysis | Dynamic Programming
 ### 🛠️ Development:
 Full Stack Development | Frontend Engineering | API Development
 
-🏗️ Software Engineering:
+### 🏗️ Software Engineering:
 SDLC | Software Architecture | System Design | Design Patterns | SOLID Principles | Clean Code 
 
 <!-- 
