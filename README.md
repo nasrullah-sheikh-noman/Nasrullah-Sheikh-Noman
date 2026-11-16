@@ -226,11 +226,12 @@ Full Stack Development -->
 </p>
 
 ---
-
 ### 🔐 Cybersecurity & Hacking Platforms
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NasrullahSheikhNoman)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/01a1e55c-ed45-71a0-94a8-68e37956df8f)
+<p>
+  <a href="https://tryhackme.com/p/NasrullahSheikhNoman" target="_blank" rel="noopener noreferrer" title="Visit my TryHackMe profile"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://profile.hackthebox.com/profile/01a1e55c-ed45-71a0-94a8-68e37956df8f" target="_blank" rel="noopener noreferrer" title="Visit my Hack The Box profile"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+</p>
 
 ---
 <!-- </td>
