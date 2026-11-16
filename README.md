@@ -226,6 +226,13 @@ Full Stack Development -->
 </p>
 
 ---
+
+### 🔐 Cybersecurity & Hacking Platforms
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NasrullahSheikhNoman)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/01a1e55c-ed45-71a0-94a8-68e37956df8f)
+
+---
 <!-- </td>
 <td width="50%" align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="85%"/>
