@@ -83,20 +83,6 @@ Full Stack Development | Frontend Engineering | API Development
 ### 🏗️ Software Engineering:
 SDLC | Software Architecture | System Design | Design Patterns | SOLID Principles | Clean Code 
 
-<!-- 
-### Software Engineering:
-System Design | Software Development Life Cycle (SDLC) | Design Patterns & SOLID Principles
--->
-
-<!-- ### 💡 Core Skills & Focus ⚡
-
-Data Structures & Algorithms (DSA) | Competitive Programming (CP) | Structured Programming (SPL) | Object-Oriented Programming (OOP) | Dynamic Programming (DP) | Discrete Mathematics | Database Management Systems (DBMS) | Operating Systems (OS) | Computer Networks (CN) | Full Stack Development | Frontend Engineering -->
-
-<!-- ----
-
-### 🧠 Tech Stack 🚀
-Full Stack Development -->
-
 <!-- <p align = 'right'>
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p> -->
