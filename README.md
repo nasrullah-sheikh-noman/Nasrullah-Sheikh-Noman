@@ -172,7 +172,6 @@ SDLC | Software Architecture | Design Patterns | SOLID Principles
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-5246E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:DD2476&height=4&section=header" width="100%"/>
 </p>
