@@ -58,7 +58,7 @@ I build modern, responsive, and user-friendly web applications using Next.js, Ty
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
     <i> Skills: </i>
    <!-- profile views -->
-   <img align="right" src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0eb466&style=flat" alt="nasrullah-sheikh-noman Profile Views" />
+   <img align="right" src="https://komarev.com/ghpvc/?username=nasrullah-sheikh-noman&label=Profile%20views&color=0eb466&style=flat" alt="Profile Views" />
 </h1>
 
 <!-- Spiderman Animation -->
