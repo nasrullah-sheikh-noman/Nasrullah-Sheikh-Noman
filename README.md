@@ -128,7 +128,6 @@ SDLC | Software Architecture | Design Patterns | SOLID Principles
 ![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF2E63&height=4&section=header" width="100%"/>
 </p>
