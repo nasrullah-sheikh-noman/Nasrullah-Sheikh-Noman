@@ -311,8 +311,6 @@ SDLC | Software Architecture | Design Patterns | SOLID Principles
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasrullah-Sheikh-Noman&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-
-
 <!-- border line-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%"/>
